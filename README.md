@@ -19,7 +19,8 @@
   
   [Link to the screen recording of the app in use](https://watch.screencastify.com/v/spkE4XYisKZN8AzmqQMj)
   
-  ![screenshot from insomnia test]("ch13.JPG")
+  ![screenshot from insomnia test](https://user-images.githubusercontent.com/87862136/147630633-d7b6965d-eb93-4333-aeed-637d77827c94.png)
+
   
   ## Tests
   
