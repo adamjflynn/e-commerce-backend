@@ -17,7 +17,7 @@
   
   ## Usage
   
-  [Link to the screen recording of the app in use]("https://watch.screencastify.com/v/spkE4XYisKZN8AzmqQMj")
+  [Link to the screen recording of the app in use](https://watch.screencastify.com/v/spkE4XYisKZN8AzmqQMj)
   
   
 
